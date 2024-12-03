@@ -1,0 +1,24 @@
+.link-active{
+    border: rgb(61, 61, 223) 1px solid;
+    background-color:rgb(61, 61, 223);
+    border-radius: 10px;
+}
+.content1 h1{
+    font-size: 50px;
+}
+#NavBar .nav-link {
+    display: block;
+    padding: 1rem 2rem;
+    color: #0d6efd;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+#hero1{
+    height: 80vh;
+}
+.inner .content2 h1{
+    font-size: 50px;
+}
+#hero2{
+    height: 60vh;
+}
